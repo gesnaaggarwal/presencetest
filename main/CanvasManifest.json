@@ -42,6 +42,7 @@
       "enablerowscopeonetonexpand": false,
       "enablerpawarecomponentdependency": true,
       "enablerulespanel": false,
+      "enableruntimepolicies": false,
       "enablesaveloadcleardataonweb": false,
       "enhancedcomponentfunctionproperty": true,
       "enhanceddelegation": true,
